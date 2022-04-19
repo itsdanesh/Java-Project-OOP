@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7c2c7e5-84ce-43df-b3b2-32d5e8057a71" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1yrYZzYhjH3BmomYDqS5SiTe8Ub" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/facade4" />
+      <recent name="$PROJECT_DIR$/src/test/java/facade3" />
+      <recent name="$PROJECT_DIR$/src/test/java/facade2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="menus.Main" />
+      <module name="DIT043_Project_Template" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Epic4RegularTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT043_Project_Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade4.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="facade4.facade" />
+      <option name="MAIN_CLASS_NAME" value="facade4.facade.Epic4RegularTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Epic5Regular" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT043_Project_Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade4.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="facade4.facade" />
+      <option name="MAIN_CLASS_NAME" value="facade4.facade.Epic5Regular" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Epic6Exceptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT043_Project_Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade4.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="facade4.facade" />
+      <option name="MAIN_CLASS_NAME" value="facade4.facade.Epic6Exceptions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="facade4.facade in DIT043_Groupe46" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT043_Group46" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade4.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="facade4.facade" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="facade4.facade in DIT043_Project_Template" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT043_Project_Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade4.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="facade4.facade" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Epic4RegularTests" />
+      <item itemvalue="JUnit.Epic5Regular" />
+      <item itemvalue="JUnit.Epic6Exceptions" />
+      <item itemvalue="JUnit.facade4.facade in DIT043_Project_Template" />
+      <item itemvalue="JUnit.facade4.facade in DIT043_Groupe46" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.facade4.facade in DIT043_Project_Template" />
+        <item itemvalue="JUnit.facade4.facade in DIT043_Groupe46" />
+        <item itemvalue="JUnit.Epic6Exceptions" />
+        <item itemvalue="JUnit.Epic5Regular" />
+        <item itemvalue="JUnit.Epic4RegularTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c2c7e5-84ce-43df-b3b2-32d5e8057a71" name="Changes" comment="" />
+      <created>1633011237582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633011237582</updated>
+      <workItem from="1633011239474" duration="82000" />
+      <workItem from="1633512995161" duration="2617000" />
+      <workItem from="1633539208620" duration="2296000" />
+      <workItem from="1633599718265" duration="186000" />
+      <workItem from="1633600288952" duration="28041000" />
+      <workItem from="1633676836473" duration="18003000" />
+      <workItem from="1633770247973" duration="15369000" />
+      <workItem from="1633878381804" duration="13041000" />
+      <workItem from="1633964390820" duration="9193000" />
+      <workItem from="1634025867676" duration="6058000" />
+      <workItem from="1634111292874" duration="16279000" />
+      <workItem from="1634207483626" duration="16879000" />
+      <workItem from="1634285448842" duration="3836000" />
+      <workItem from="1634376141482" duration="28644000" />
+      <workItem from="1634463623444" duration="5479000" />
+      <workItem from="1634559314515" duration="14536000" />
+      <workItem from="1634630790553" duration="5775000" />
+      <workItem from="1634726350217" duration="9971000" />
+      <workItem from="1634810694327" duration="3909000" />
+      <workItem from="1634890444778" duration="7678000" />
+      <workItem from="1634977648584" duration="8828000" />
+      <workItem from="1635064106459" duration="1362000" />
+      <workItem from="1635067235908" duration="103000" />
+      <workItem from="1635067368453" duration="22000" />
+      <workItem from="1635067660762" duration="532000" />
+      <workItem from="1635068473956" duration="165000" />
+      <workItem from="1635068681368" duration="76000" />
+      <workItem from="1635068874905" duration="490000" />
+      <workItem from="1635069382339" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
